@@ -1,0 +1,49 @@
+{
+  "employee_payroll": [
+    {
+      "id": 1,
+      "company_id": 0,
+      "name": "Vishal",
+      "gender": "M",
+      "salary": 1500000,
+      "start_date": "2018-02-06",
+      "active": 1
+    },
+    {
+      "id": 2,
+      "company_id": 0,
+      "name": "John",
+      "gender": "M",
+      "salary": 2500000,
+      "start_date": "2016-10-12",
+      "active": 1
+    },
+    {
+      "id": 5,
+      "company_id": 0,
+      "name": "Terisa",
+      "gender": "F",
+      "salary": 3000000,
+      "start_date": "2019-11-13",
+      "active": 0
+    },
+    {
+      "company_id": 0,
+      "name": "Trisha",
+      "gender": "F",
+      "salary": 3000000,
+      "start_date": "2019-11-13",
+      "active": 1,
+      "id": 6
+    },
+    {
+      "company_id": 0,
+      "name": "Trisha",
+      "gender": "F",
+      "salary": 3000000,
+      "start_date": "2019-11-13",
+      "active": 1,
+      "id": 7
+    }
+  ]
+}

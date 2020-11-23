@@ -44,6 +44,15 @@
       "start_date": "2019-11-13",
       "active": 1,
       "id": 7
+    },
+    {
+      "company_id": 0,
+      "name": "Trisha",
+      "gender": "F",
+      "salary": 3000000,
+      "start_date": "2019-11-13",
+      "active": 1,
+      "id": 8
     }
   ]
 }
